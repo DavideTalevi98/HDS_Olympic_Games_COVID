@@ -1,0 +1,3 @@
+.csv - https://covid19.who.int/data
+owid-covid-data.csv - https://github.com/owid/covid-19-data/tree/master/public/data - https://ourworldindata.org/covid-vaccinations
+country_vaccinations.csv - https://www.kaggle.com/gpreda/covid-world-vaccination-progress
