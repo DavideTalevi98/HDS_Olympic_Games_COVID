@@ -8,9 +8,9 @@ Questo repository contiene un'analisi dell'impatto delle Olimpiadi Tokyo 2020 su
 
 Il repository include i seguenti file:
 
-- `dataset.csv`: Il dataset contenente i dati relativi ai nuovi casi di COVID-19 in diverse regioni durante e dopo le Olimpiadi Tokyo 2020.
-- `analysis.ipynb`: Un notebook Jupyter contenente il codice e le analisi eseguite sul dataset.
-- `results.md`: Un documento in formato markdown che presenta i risultati dell'analisi.
+- `data/dataset.csv`: Il dataset contenente i dati relativi ai nuovi casi di COVID-19 in diverse regioni durante e dopo le Olimpiadi Tokyo 2020.
+- `code/analysis.ipynb`: Un notebook Jupyter contenente il codice e le analisi eseguite sul dataset.
+- `report.pdf`: Un documento in formato markdown che presenta i risultati dell'analisi.
 
 ### Metodologia
 
